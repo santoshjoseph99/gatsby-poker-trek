@@ -49,3 +49,18 @@ I fold and so does the other player.  He said he had `KQh`.  The initial player 
 
 Anyways, I lose about $205 for this session.  Kind of struggled.
 Table conditions were ok.
+
+A couple of more games that I would mention but nothing interesting happened.
+
+I also played the Tulalip casino.  A couple of interesting things.
+I won a high hand jackpot with quad jacks.  Unfortunately my opponent didn't get any of it so I had to settle for  a small pot
+and the $300 high hand which held up for 30 minutes.
+
+I think my first hand which was a disaster.  I was on the button
+and I got `95 of diamonds`.  Never should play this, but I called
+and the flop comes out `J93` with 2 diamonds.  2 other players.  First player bes out $5 and 2nd calls.  I think he is on a draw, so I raise to $25.  He calls and other player folds.  Turn is a `A`.  He checks. I bet out $50.  He calls.  River is a blank. No flush for me.  He checks. I can't win this pot without betting.
+So I go ahead.  $75.  He thinks briefly and calls.  I got kind of lucky.  He had `A6` of diamonds.  He wins, but if a flush had
+come I would have lost a lot more.  Anyways my $300 buyin is cut in half:(  Not sure how much I could have bet to get him off that pot.  I was representing my hand either as a pair or a set, but he didn't seem to realize that.  I could tell he was pretty straightforward, so I shouldn't have bothered after the river was a blank.
+
+I played at Tulalip for about 3 hours and I did get a lot pairs.
+`55` 3 times, `TT` twice, `KK` and `QQ` once.  I played fairly aggressive at times.  Table was a little soft.  Without my high hand I would have lost $50.
