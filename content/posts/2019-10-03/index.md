@@ -1,8 +1,8 @@
 ---
 path: "/fortune-poker1"
-cover: "./poker-chips.jpg
+cover: "./poker-chips.jpg"
 date: "2019-10-03"
-title: "Want a fortune?"
+title: "A Fortune?"
 tags: ['poker', 'cash']
 published: true
 ---
