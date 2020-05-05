@@ -1,11 +1,13 @@
 ---
 path: "/first-post-2020"
 cover: "./2018-cards.jpeg"
-date: "2019-04-21"
+date: "2020-05-05"
 title: "Playing again..."
 tags: ['poker', 'tournaments']
 published: true
 ---
+
+Happy Cinco de Mayo!
 
 So I kinda quit at the end of last year, when I went on my biggest downswing.  Bad decisions and bad luck.
 I did end playing a little live poker before the virus took center stage.  I mainly did tournaments
