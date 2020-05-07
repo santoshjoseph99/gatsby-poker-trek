@@ -23,12 +23,10 @@ const Text = styled.div`
 
 const Footer = () => (
   <Wrapper>
-    <Text>
-      <span>
-        Gatsby Tutorial Starter -{' '}
-        <a href="https://justinformentin.com">Justin Formentin</a>
-      </span>
-    </Text>
+    <a href="https://www.advancedpokertraining.com/poker/amember/aff/go/sanjosep43">
+      <img src="https://www.advancedpokertraining.com/poker/assets/images/banners/BannerAd-APT-NextPokerChampion-1800x500-Yellow.jpg"
+           style={{border:'none', width:1800, height:'auto', maxWidth:'100%'}} />
+    </a>
   </Wrapper>
 );
 export default Footer;
