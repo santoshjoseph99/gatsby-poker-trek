@@ -26,7 +26,7 @@ of the tournaments (live ones) led to playing passive because I didn't get any g
 
 The only interesting thing to mention was the online tournament. I played almost 130 hands and I got like 3 pairs. 66's twice and 88.  Even with that I hanged on till the last 3 tables.  I think about 165 players started.  Didn't bluff.  Most players were new so I knew I just had to play basic poker.  Might do that again.
 
-In the mean time, I'm just building up my poker bank roll through other means and reading some poker books and playing some of the free games at Advanced Poker Training.
+In the mean time, I'm just building up my poker bank roll through other means and reading some poker books and playing some of the free games at [Advanced Poker Training](https://www.advancedpokertraining.com/aff=sanjosep43).
 Also, I'm currently reading Pain Poker by Tommy Angelo.  Its actually quite good and I'll post a review of it when finished.
 
 I hope poker will be in back in 2020!!!
