@@ -2,7 +2,7 @@
 path: '/almost-last-post-2021'
 cover: './wsop-poker.jpeg'
 date: '2022-12-07'
-title: 'Vegas
+title: 'Vegas'
 tags: ['poker', 'cash', 'tournament']
 published: true
 ---
